@@ -1,0 +1,27 @@
+                                    SRS DOCUMENT
+                                     HEPTMED
+REQUIREMENTS:
+     
+ 1. Identify business goals,expectations and requirements that express the objectives
+ 2. Functional requirements
+ 3. Stakeholder requirements
+ 4. Technical requirements
+ 5. Pharmacy lisence
+ 6. Drug supplier
+ 7. Consultant
+ 8. GPS
+ 9. Priorities and updates
+
+PROCEDURE TO OPEN AN ONLINE PHARMACY:
+ 
+* Seller registration at existing at E-pharmacy.
+* For own website or app
+
+ONLINE PHARMACY REGISTRATION AND LISCENCE REQUIRED:
+ 
+*Retail drug lisence
+*Requirements and documents for setting up online pharmacy.
+*Presence of pharmacist is must for receiving prescription and answering the question of the customer.
+*Pharmacy can't dispense habit forming medicines and schedule X drugs.
+*Prescription drugs(schedule H and schedule H1) can only be sell out against a valid doctor prescription.
+*online pharmacies have to comply with e-commerce standars coverd under it act,2000
